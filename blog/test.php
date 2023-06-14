@@ -1,5 +1,6 @@
 <?php
 
+echo '<pre>';
 // 索引数组，下标为整型
 $arr = [1, 2, 4, 5];
 var_dump($arr);
@@ -26,4 +27,18 @@ function hash33($str)
     return $hash & 0x7fffffff;
 }
 
-?>
+
+
+
+$price = 1000;
+echo "{$price}\n";
+function editPrice(&$priceeee) {
+    $priceeee = 100;
+}
+
+editPrice($price);
+echo "{$price}\n";
+
+// array_sum($price);
+
+
