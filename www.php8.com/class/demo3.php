@@ -39,11 +39,11 @@ class User
 
 echo '<pre>';
 
-$u = new User;
+$u = new UserDemo;
 echo $u->normal();
 
 
 // echo "\n" . __CLASS__ . "\n";
 
 $u->login('张三', 'qweere');
-User::index('古力娜扎', '172cm', '48kg');
+UserDemo::index('古力娜扎', '172cm', '48kg');

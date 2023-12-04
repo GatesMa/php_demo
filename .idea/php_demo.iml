@@ -5,6 +5,23 @@
       <sourceFolder url="file://$MODULE_DIR$/spaphp_demo/app" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/spaphp_demo/app/src" isTestSource="false" packagePrefix="app" />
       <sourceFolder url="file://$MODULE_DIR$/spaphp_demo/app/test" isTestSource="true" packagePrefix="app" />
+      <sourceFolder url="file://$MODULE_DIR$/spaphp_demo/app/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/spaphp_demo/test" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/tp/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/tp/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/tp/vendor/league/flysystem-cached-adapter" />
+      <excludeFolder url="file://$MODULE_DIR$/tp/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/tp/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/tp/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/tp/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/tp/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/tp/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/tp/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/tp/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/tp/vendor/topthink/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/tp/vendor/topthink/think-helper" />
+      <excludeFolder url="file://$MODULE_DIR$/tp/vendor/topthink/think-orm" />
+      <excludeFolder url="file://$MODULE_DIR$/tp/vendor/topthink/think-trace" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
